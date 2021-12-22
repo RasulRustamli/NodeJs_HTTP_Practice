@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "http": "^0.0.1-security"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nodehttp",
+  "version": "1.0.0",
+  "description": "Learning http",
+  "main": "server.js",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "author": "",
+  "license": "ISC"
+}
